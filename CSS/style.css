@@ -1,0 +1,34 @@
+ul.nav-bar li a {
+    text-decoration: none;
+    color: black
+}
+ul.nav-bar li:hover {
+    background-color: #e3e3e3;
+}
+ul.nav-bar {
+    width: 500px;
+    height: 50px;
+    background-color: brown;
+    border-radius: 4px;
+    padding: 0;
+    margin: auto;
+    text-align: center;
+}
+ul.nav-bar li {
+    font-size: 18px;
+    line-height: 50px;
+    font-family: Calibri;
+    cursor: pointer;
+    list-style: none;
+    display: inline-block;
+    padding: 0 15px;
+}
+.desc {
+    text-align: center;
+    font-family: Calibri;
+}
+.ind {
+    width: max-content;
+    margin: auto;
+    font-family: Calibri;
+}
